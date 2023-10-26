@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hema-portfolio/static/css/main.4015e010.css",
+    "main.js": "/hema-portfolio/static/js/main.9c9cb8e7.js",
+    "static/media/portfolio-6.png": "/hema-portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/hema-portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/hema-portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/hema-portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/Hema_Bodapoori.png": "/hema-portfolio/static/media/Hema_Bodapoori.de419e081e38f9121c57.png",
+    "static/media/portfolio-5.png": "/hema-portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/hema-portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/ui-design.png": "/hema-portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/hema-portfolio/index.html",
+    "main.4015e010.css.map": "/hema-portfolio/static/css/main.4015e010.css.map",
+    "main.9c9cb8e7.js.map": "/hema-portfolio/static/js/main.9c9cb8e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4015e010.css",
+    "static/js/main.9c9cb8e7.js"
+  ]
+}
